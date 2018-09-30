@@ -1,0 +1,33 @@
+{
+  "name": "xfyun-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "nodejs sdk for xfyun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reezon/xfyun-nodejs-sdk.git"
+  },
+  "keywords": [
+    "xfyun",
+    "xunfei",
+    "nodejs"
+  ],
+  "author": "reezon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reezon/xfyun-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/reezon/xfyun-nodejs-sdk#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "hmacsha1": "^1.0.0",
+    "js-base64": "^2.4.9",
+    "md5": "^2.2.1",
+    "querystring": "^0.2.0",
+    "urlencode": "^1.1.0",
+    "websocket": "^1.0.28"
+  }
+}
